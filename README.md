@@ -117,5 +117,4 @@ For any queries or issues, please contact [anushkasingh425@gmail.com].
 
 ---
 
-Replace the placeholders like `your-username`, `your_pinecone_api_key`, `your_pinecone_environment`, and `your-email@example.com` with your actual details. Adjust the content as necessary to fit your specific application and requirements.
 
