@@ -1,5 +1,4 @@
 # MedCompanion
-Here's a README file for your Streamlit application with Plyer notifications:
 
 
 MedCompanion is a Streamlit-based application designed to provide various health-related functionalities, including drug-drug interactions, drug-human interactions, medicine reminders, and an AI assistant for general queries. 
@@ -88,7 +87,7 @@ To set a medicine reminder:
 3. Set the time for the reminder.
 4. Click "Set Reminder".
 5. A notification will be sent at the specified time.
-##Output
+## Output
 ![Screenshot 2024-06-19 072631](https://github.com/anushkas-11/MedCompanion/assets/123588192/db6808f3-ec45-42dc-b11e-67de2222bb12)
 
 ![Screenshot 2024-06-19 072652](https://github.com/anushkas-11/MedCompanion/assets/123588192/bf78f305-327b-42cb-ab5c-3520831ff961)
