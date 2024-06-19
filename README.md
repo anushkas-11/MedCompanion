@@ -88,13 +88,19 @@ To set a medicine reminder:
 3. Set the time for the reminder.
 4. Click "Set Reminder".
 5. A notification will be sent at the specified time.
-#Output
+##Output
 ![Screenshot 2024-06-19 072631](https://github.com/anushkas-11/MedCompanion/assets/123588192/db6808f3-ec45-42dc-b11e-67de2222bb12)
+
 ![Screenshot 2024-06-19 072652](https://github.com/anushkas-11/MedCompanion/assets/123588192/bf78f305-327b-42cb-ab5c-3520831ff961)
+
 ![Screenshot 2024-06-19 072711](https://github.com/anushkas-11/MedCompanion/assets/123588192/4b81d8cb-8879-4956-8511-dbe7dfaf2669)
+
 ![Screenshot 2024-06-19 072730](https://github.com/anushkas-11/MedCompanion/assets/123588192/b6c5851c-f343-42c9-9045-ad88f6bce0bf)
+
 ![Screenshot 2024-06-19 072757](https://github.com/anushkas-11/MedCompanion/assets/123588192/3e7abc05-1d1a-4d12-bed6-6cd4d596eb97)
+
 ![Screenshot 2024-06-19 072814](https://github.com/anushkas-11/MedCompanion/assets/123588192/46178235-9d0d-4af8-ad2a-cf73d5fae9c7)
+
 ![Screenshot 2024-06-19 072832](https://github.com/anushkas-11/MedCompanion/assets/123588192/a93a3688-3438-4cde-bc11-d58e953e5917)
 
 
